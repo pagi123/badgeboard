@@ -56,10 +56,6 @@
       "description": "Middleware for handling `multipart/form-data`.",
       "node": "0.10"
     },
-    "parseurl": {
-      "description": "parse a url with memoization",
-      "node": "0.8"
-    },
     "response-time": {
       "description": "Response time for Node.js servers",
       "node": "0.8"

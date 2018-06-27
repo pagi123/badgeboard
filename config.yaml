@@ -26,7 +26,6 @@ projects:
  - method-override
  - multer
  - response-time
- - parseurl
  - flash
  - vhost
 
