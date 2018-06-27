@@ -4,16 +4,16 @@
   "//3": "but it will be overwritten on the next build.",
   "maintainers": {
     "dougwilson": {
-      "packages": 77
+      "packages": 105
     },
     "fishrock123": {
-      "packages": 49
+      "packages": 43
     },
     "jongleberry": {
-      "packages": 436
+      "packages": 559
     },
     "rlidwka": {
-      "packages": 13
+      "packages": 15
     }
   },
   "projects": {
@@ -22,12 +22,12 @@
       "node": "0.8"
     },
     "compression": {
-      "description": "Compression middleware for connect and node.js",
+      "description": "Node.js compression middleware",
       "node": "0.8"
     },
     "cookie-session": {
       "description": "cookie session middleware",
-      "node": "0.8"
+      "node": "0.10"
     },
     "csurf": {
       "description": "CSRF token middleware",
@@ -46,7 +46,7 @@
       "node": "0.8"
     },
     "morgan": {
-      "description": "http request logger middleware for node.js",
+      "description": "HTTP request logger middleware for node.js",
       "node": "0.8"
     },
     "parseurl": {
@@ -54,7 +54,7 @@
       "node": "0.8"
     },
     "response-time": {
-      "description": "Response time header for node.js",
+      "description": "Response time for Node.js servers",
       "node": "0.8"
     },
     "serve-favicon": {
