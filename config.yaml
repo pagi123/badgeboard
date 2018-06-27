@@ -63,6 +63,12 @@ maintainers:
    twitter: rlidwka
    email:   alex@kocharin.ru
 
+ - name:    Linus Unnebäck
+   github:  LinusU
+   npm:     linusu
+   twitter: LinusU
+   email:   linus@folkdatorn.se
+
 # this determines what info will be fetched with `make db`;
 # you can comment out stuff to reduce number of http requests
 db.json:
