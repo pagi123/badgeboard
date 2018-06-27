@@ -24,6 +24,7 @@ projects:
  - morgan
  - serve-static
  - method-override
+ - multer
  - response-time
  - parseurl
  - flash
