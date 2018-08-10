@@ -7,13 +7,13 @@
       "packages": 105
     },
     "fishrock123": {
-      "packages": 43
+      "packages": 44
     },
     "jongleberry": {
-      "packages": 559
+      "packages": 560
     },
     "linusu": {
-      "packages": 163
+      "packages": 170
     },
     "rlidwka": {
       "packages": 15
@@ -46,7 +46,7 @@
     },
     "method-override": {
       "description": "Override HTTP verbs",
-      "node": "0.8"
+      "node": "0.10"
     },
     "morgan": {
       "description": "HTTP request logger middleware for node.js",
