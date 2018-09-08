@@ -73,7 +73,7 @@
       "node": "0.8"
     },
     "session": {
-      "description": "Generic session manager (i.e. not depending on cookies or socket connection, etc.)",
+      "description": "Simple session middleware for Express",
       "node": "0.8"
     },
     "vhost": {
