@@ -66,6 +66,12 @@ maintainers:
    twitter: LinusU
    email:   linus@folkdatorn.se
 
+ - name:    Wes Todd
+   github:  wesleytodd
+   npm:     wesleytodd
+   twitter: wesleytodd
+   email:   wes@wesleytodd.com
+
 # this determines what info will be fetched with `make db`;
 # you can comment out stuff to reduce number of http requests
 db.json:
